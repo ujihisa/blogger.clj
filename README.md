@@ -1,13 +1,13 @@
 # blogger
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to publish a blog post to blogger.com.
 
 ## Usage
 
-FIXME
+TODO
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright (c) 2013 Tatsuhiro Ujihisa.
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under GPLv3 or any later version.
