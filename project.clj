@@ -1,4 +1,4 @@
-(defproject blogger "0.1.0-SNAPSHOT"
+(defproject blogger "0.1-SNAPSHOT"
   :description "library for blogspot.com (blogger) api 3"
   :url "http://example.com/FIXME"
   :license {:name "GNU GPL v3+"
